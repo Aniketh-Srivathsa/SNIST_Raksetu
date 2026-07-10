@@ -185,7 +185,7 @@ Firebase Data → Feature Extraction → TensorFlow.js Model → Churn Predictio
 
 ```bash
 git clone https://github.com/Aniketh-Srivathsa/SNIST_Raksetu.git
-cd Raksetu_SIP
+cd Raksetu-main
 ```
 
 ### 2. Install Frontend Dependencies
@@ -198,7 +198,7 @@ npm install
 ### 3. Install Backend Dependencies
 
 ```bash
-cd ../raksetu-backend
+cd Raksetu-main
 npm install
 ```
 
